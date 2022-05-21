@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: neo
+JANF-Plugin-Entry: com.janetfilter.plugins.power.PowerPlugin
+Created-By: Apache Maven 3.8.4
+Build-Jdk: 1.8.0_261
+
